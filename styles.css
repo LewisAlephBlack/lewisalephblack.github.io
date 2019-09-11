@@ -1,5 +1,5 @@
 body { background: #FAFAFA; color: #050505; line-height:1.4; }
 div { max-width: 960px; margin: 0 auto; padding: 10px; }
 h1 { font-family: 'Open Sans', sans-serif; }
-h1:before { content: '⬟ |'; font-size: 160%; }
+h1:before { content: '⬟ | '; font-size: 160%; letter-spacing: -0.14em; }
 p { font-family: 'Raleway', sans-serif; }
